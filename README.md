@@ -137,11 +137,14 @@ As a result of this work, some of the important points and possibilities for fut
 ## Obtaining the Readium Code ##
 The Readium code can be obtained as follows:
 
+        cd /
         git clone --branch=panz git@github.com:jcdarwin/readium.git
 
-This will not retrieve any of the actual content, which is symlinked in epub_content:
+This will not retrieve any of the actual content, which is symlinked in readium/epub_content from the lml58_panz_epub_individual directory in this repo:
 
-        lml58_panz_epub_individual => /Users/jason/Work/CWA/clients/lml/lml58 panz frankfurt webbook/build/lml58_panz_epub_individual
+        cd /
+        git clone git@github.com:cwa-lml/lml58_panz_epub.git
+        ln -s /lml58_panz_epub/lml58_panz_epub_individual => /readium/epub_content/
 
 ## Shortened links ##
 The following links have been shortened using bit.ly, in order to allow us to track the number of clicks
