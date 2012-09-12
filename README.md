@@ -142,7 +142,7 @@ The Readium code can be obtained as follows:
 To obtain the content (form the cwa-lml private git repo) and plug it into the correct location:
 
         cd readium/epub_content
-        git@github.com:cwa-lml/lml58_panz_epub.git
+        git clone git@github.com:cwa-lml/lml58_panz_epub.git
 
 A local (ruby) server can then be started to serve the Readium content:
 
