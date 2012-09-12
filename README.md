@@ -137,14 +137,18 @@ As a result of this work, some of the important points and possibilities for fut
 ## Obtaining the Readium Code ##
 The Readium code can be obtained as follows:
 
-        cd /
         git clone --branch=panz git@github.com:jcdarwin/readium.git
 
-This will not retrieve any of the actual content, which is symlinked in readium/epub_content from the lml58_panz_epub_individual directory in this repo:
+To obtain the content (form the cwa-lml private git repo) and plug it into the correct location:
 
-        cd /
+        cd readium/epub_content
         git clone git@github.com:cwa-lml/lml58_panz_epub.git
-        ln -s /lml58_panz_epub/lml58_panz_epub_individual => /readium/epub_content/
+
+A local (ruby) server can then be started to serve the Readium content:
+
+        rake server
+
+Then visit http://localhost:3000/index.html in a browser to see the library view.
 
 ## Shortened links ##
 The following links have been shortened using bit.ly, in order to allow us to track the number of clicks
