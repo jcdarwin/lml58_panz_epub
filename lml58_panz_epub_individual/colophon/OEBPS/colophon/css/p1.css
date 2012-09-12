@@ -1,0 +1,60 @@
+body {
+  margin: 1em;
+  text-align:center;
+  font-size:18px;
+  line-height:1.4;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link {
+  color: #000;
+  border-bottom: 1px dotted #ba0000;
+}
+
+a:visited {
+  color: #aaa;
+  border-bottom: 1px dotted #aaa;
+}
+
+#logos {
+  width:800px;
+  height:250px;
+  margin: auto;
+  margin-top:50px;
+  text-align:center;
+}
+
+#logos a {
+  border-bottom: none;
+}
+
+#kia_ora > a > img {
+  width:200px;
+}
+
+#sub_logos {
+  width:400px;
+  margin: auto;
+  text-align:center;
+}
+
+#p1_panz{
+  width:200px;
+  float:left;
+  margin-top:20px;
+}
+
+#p1_educationnz {
+  width:200px;
+  float:left;
+}
+
+#main {
+  clear:both;
+  text-align:left;
+  margin:auto;
+  width:70%;
+}

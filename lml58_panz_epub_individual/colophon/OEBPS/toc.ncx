@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="Learning Landscapes (colophon): New Zealand Educational Publishers" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Learning Landscapes (colophon): New Zealand Educational Publishers</text>
+  </docTitle>
+  <navMap>
+    <navPoint playOrder="1" id="1">
+      <navLabel>
+        <text>Colophon</text>
+      </navLabel>
+      <content src="colophon/p1.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

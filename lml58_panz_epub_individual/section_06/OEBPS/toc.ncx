@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="Learning Landscapes (section 4): New Zealand Educational Publishers" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Learning Landscapes (section 4): New Zealand Educational Publishers</text>
+  </docTitle>
+  <navMap>
+    <navPoint playOrder="1" id="1">
+      <navLabel>
+        <text>Global Education Services: Hero page</text>
+      </navLabel>
+      <content src="section_06/p1.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="2" id="2">
+      <navLabel>
+        <text>Global Education Services: Page 2</text>
+      </navLabel>
+      <content src="section_06/p2.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="3" id="3">
+      <navLabel>
+        <text>Global Education Services: Page 3</text>
+      </navLabel>
+      <content src="section_06/p3.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

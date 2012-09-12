@@ -1,0 +1,302 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="Learning Landscapes: New Zealand Educational Publishers" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Learning Landscapes: New Zealand Educational Publishers</text>
+  </docTitle>
+  <navMap>
+    <navPoint playOrder="1" id="1">
+      <navLabel>
+        <text>Introduction</text>
+      </navLabel>
+      <content src="intro/p1.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="2" id="2">
+      <navLabel>
+        <text>Introduction: Page 2</text>
+      </navLabel>
+      <content src="intro/p2.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="3" id="3">
+      <navLabel>
+        <text>Introduction: page 3</text>
+      </navLabel>
+      <content src="intro/p3.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="4" id="4">
+      <navLabel>
+        <text>Introduction: page 4</text>
+      </navLabel>
+      <content src="intro/p4.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="5" id="5">
+      <navLabel>
+        <text>Introduction: page 5</text>
+      </navLabel>
+      <content src="intro/p5.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="6" id="6">
+      <navLabel>
+        <text>Introduction: page 6</text>
+      </navLabel>
+      <content src="intro/p6.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="7" id="7">
+      <navLabel>
+        <text>8interactive: Hero page</text>
+      </navLabel>
+      <content src="section_01/p1.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="8" id="8">
+      <navLabel>
+        <text>8interactive: Page 2</text>
+      </navLabel>
+      <content src="section_01/p2.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="9" id="9">
+      <navLabel>
+        <text>8interactive: Page 3</text>
+      </navLabel>
+      <content src="section_01/p3.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="10" id="10">
+      <navLabel>
+        <text>Award Reading: Hero page</text>
+      </navLabel>
+      <content src="section_02/p1.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="11" id="11">
+      <navLabel>
+        <text>Award Reading: Page 2</text>
+      </navLabel>
+      <content src="section_02/p2.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="12" id="12">
+      <navLabel>
+        <text>Award Reading: Page 3</text>
+      </navLabel>
+      <content src="section_02/p3.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="13" id="13">
+      <navLabel>
+        <text>Clean Slate Press: Hero page</text>
+      </navLabel>
+      <content src="section_03/p1.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="14" id="14">
+      <navLabel>
+        <text>Clean Slate Press: Page 2</text>
+      </navLabel>
+      <content src="section_03/p2.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="15" id="15">
+      <navLabel>
+        <text>Clean Slate Press: Page 3</text>
+      </navLabel>
+      <content src="section_03/p3.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="16" id="16">
+      <navLabel>
+        <text>ESA Publications: Hero page</text>
+      </navLabel>
+      <content src="section_04/p1.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="17" id="17">
+      <navLabel>
+        <text>ESA Publications: Page 2</text>
+      </navLabel>
+      <content src="section_04/p2.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="18" id="18">
+      <navLabel>
+        <text>ESA Publications: Page 3</text>
+      </navLabel>
+      <content src="section_04/p3.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="19" id="19">
+      <navLabel>
+        <text>Essential Resources: Hero page</text>
+      </navLabel>
+      <content src="section_05/p1.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="20" id="20">
+      <navLabel>
+        <text>Essential Resources: Page 2</text>
+      </navLabel>
+      <content src="section_05/p2.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="21" id="21">
+      <navLabel>
+        <text>Essential Resources: Page 3</text>
+      </navLabel>
+      <content src="section_05/p3.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="22" id="22">
+      <navLabel>
+        <text>Global Education Systems: Hero page</text>
+      </navLabel>
+      <content src="section_06/p1.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="23" id="23">
+      <navLabel>
+        <text>Global Education Systems: Page 2</text>
+      </navLabel>
+      <content src="section_06/p2.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="24" id="24">
+      <navLabel>
+        <text>Global Education Services: Page 3</text>
+      </navLabel>
+      <content src="section_06/p3.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="25" id="25">
+      <navLabel>
+        <text>Hana Limited: Hero page</text>
+      </navLabel>
+      <content src="section_07/p1.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="26" id="26">
+      <navLabel>
+        <text>Hana Limited: Page 2</text>
+      </navLabel>
+      <content src="section_07/p2.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="27" id="27">
+      <navLabel>
+        <text>Hana Limited: Page 3</text>
+      </navLabel>
+      <content src="section_07/p3.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="28" id="28">
+      <navLabel>
+        <text>Kiwa Media: Hero page</text>
+      </navLabel>
+      <content src="section_08/p1.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="29" id="29">
+      <navLabel>
+        <text>Kiwa Media: Page 2</text>
+      </navLabel>
+      <content src="section_08/p2.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="30" id="30">
+      <navLabel>
+        <text>Kiwa Media: Page 3</text>
+      </navLabel>
+      <content src="section_08/p3.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="31" id="31">
+      <navLabel>
+        <text>Learning Media: Hero page</text>
+      </navLabel>
+      <content src="section_09/p1.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="32" id="32">
+      <navLabel>
+        <text>Learning Media: Page 2</text>
+      </navLabel>
+      <content src="section_09/p2.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="33" id="33">
+      <navLabel>
+        <text>Learning Media: Page 3</text>
+      </navLabel>
+      <content src="section_09/p3.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="34" id="34">
+      <navLabel>
+        <text>MJA Publishing: Hero page</text>
+      </navLabel>
+      <content src="section_10/p1.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="35" id="35">
+      <navLabel>
+        <text>MJA Publishing: Page 2</text>
+      </navLabel>
+      <content src="section_10/p2.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="36" id="36">
+      <navLabel>
+        <text>MJA Publishing: Page 3</text>
+      </navLabel>
+      <content src="section_10/p3.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="37" id="37">
+      <navLabel>
+        <text>Rainbow Reading: Hero page</text>
+      </navLabel>
+      <content src="section_11/p1.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="38" id="38">
+      <navLabel>
+        <text>Rainbow Reading: Page 2</text>
+      </navLabel>
+      <content src="section_11/p2.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="39" id="39">
+      <navLabel>
+        <text>Rainbow Reading: Page 3</text>
+      </navLabel>
+      <content src="section_11/p3.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="40" id="40">
+      <navLabel>
+        <text>Ryan Publications: Hero page</text>
+      </navLabel>
+      <content src="section_12/p1.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="41" id="41">
+      <navLabel>
+        <text>Ryan Publications: Page 2</text>
+      </navLabel>
+      <content src="section_12/p2.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="42" id="42">
+      <navLabel>
+        <text>Ryan Publications: Page 3</text>
+      </navLabel>
+      <content src="section_12/p3.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="43" id="43">
+      <navLabel>
+        <text>Skylight: Hero page</text>
+      </navLabel>
+      <content src="section_13/p1.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="44" id="44">
+      <navLabel>
+        <text>Skylight: Page 2</text>
+      </navLabel>
+      <content src="section_13/p2.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="45" id="45">
+      <navLabel>
+        <text>Rainbow Reading: Page 3</text>
+      </navLabel>
+      <content src="section_13/p3.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="46" id="46">
+      <navLabel>
+        <text>South Pacific: Hero page</text>
+      </navLabel>
+      <content src="section_14/p1.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="47" id="47">
+      <navLabel>
+        <text>South Pacific: Page 2</text>
+      </navLabel>
+      <content src="section_14/p2.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="48" id="48">
+      <navLabel>
+        <text>South Pacific: Page 3</text>
+      </navLabel>
+      <content src="section_14/p3.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

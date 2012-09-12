@@ -1,0 +1,164 @@
+@font-face {
+	font-family: "Karla";
+	font-weight: normal;
+	font-style: normal;
+	src:url("../../fonts/Karla-Regular.ttf");
+}
+
+@font-face {
+	font-family: "Karla-Italic";
+	font-weight: normal;
+	font-style: normal;
+	src:url("../../fonts/Karla-Italic.ttf");
+}
+
+body {
+/*
+	width: 1024px;
+    height: 768px;
+*/
+    margin:0;
+	font-family: "Karla";
+	font-weight: normal;
+	font-style: normal;
+	font-size: 20px;
+}
+
+/* ================================= Hero page ============================= */
+#hero {
+ position: absolute;
+ overflow: hidden;
+ z-index: -1;
+}
+
+#badge {
+ position: absolute;
+ overflow: hidden;
+ left: 725px;
+ top: 160px;
+ z-index: 3;
+}
+
+#badge>img {
+ width: 135px;
+ height: 97px;
+}
+
+#map {
+ position: absolute;
+ overflow: hidden;
+ left: 772px;
+ top: 253px;
+ width: 799px;
+ height: 441px;
+ z-index: 1;
+}
+
+#map > img {
+ width: 216px;
+ height: 296px;
+}
+
+#sidebar {
+ position: absolute;
+ overflow: hidden;
+ left: 826px;
+ top: 124px;
+ width: 198px;
+ height: 438px;	
+ z-index: -1;
+ border-top-left-radius: 15px 15px;
+ -moz-border-radius-topleft: 15px 15px;
+}
+
+#sidebar .text {
+ position: relative;
+ left: 44px;
+ top: 38px;
+ color:#fff;
+ font-size: 20px;
+ font-style: italic;
+ z-index: 2;
+}
+
+.text {
+ margin:0;
+}
+
+#footer_logo {
+ position: absolute;
+ overflow: hidden;
+ z-index: -1;
+}
+
+#footer_text {
+ position: absolute;
+ font-size: 22px;
+ z-index: 1;
+}
+
+#footer_graphic_container {
+ position: absolute;
+ overflow: hidden;
+ z-index: -1;
+}
+
+#footer_graphic {
+ position: relative;
+}
+
+/* ================================== Page 2 =============================== */
+
+.column {
+ font-size:16px; 
+ height: 644px;
+}
+
+.column h1 {
+ font-size:30px;
+ font-family: "Karla-Italic";
+	font-weight: normal;
+	font-style: normal;
+}
+
+#col_center {
+ position: absolute;
+ border-top-left-radius: 15px 15px;
+ -moz-border-radius-topleft: 15px 15px;
+}
+
+/* ================================== Page 3 =============================== */
+
+#contacts {
+ position: absolute;
+ left:681px;
+ top:608px;
+ width:343px;
+ height:136px;
+ font-family: "Karla";
+ font-weight: normal;
+ font-style: normal;
+ overflow:hidden;
+ border-top-left-radius: 15px 15px;
+ -moz-border-radius-topleft: 15px 15px;
+}
+
+#contacts_head {
+ position: relative;
+ left:-147px;
+ top:-100px;
+ text-transform:uppercase;
+ -webkit-transform:rotate(-90deg);
+ font-size:20px;
+}
+
+#contacts_text {
+ position: relative;
+ left:52px;
+ top:-45px;
+ width:291px;
+ margin:0;
+ padding:0;
+ font-size:17px;
+}
+

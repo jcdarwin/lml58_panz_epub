@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="Learning Landscapes (intro): New Zealand Educational Publishers" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Learning Landscapes (intro): New Zealand Educational Publishers</text>
+  </docTitle>
+  <navMap>
+    <navPoint playOrder="1" id="1">
+      <navLabel>
+        <text>Introduction</text>
+      </navLabel>
+      <content src="intro/p1.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="2" id="2">
+      <navLabel>
+        <text>Introduction: Page 2</text>
+      </navLabel>
+      <content src="intro/p2.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="3" id="3">
+      <navLabel>
+        <text>Introduction: page 3</text>
+      </navLabel>
+      <content src="intro/p3.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="4" id="4">
+      <navLabel>
+        <text>Introduction: page 4</text>
+      </navLabel>
+      <content src="intro/p4.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="5" id="5">
+      <navLabel>
+        <text>Introduction: page 5</text>
+      </navLabel>
+      <content src="intro/p5.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="6" id="6">
+      <navLabel>
+        <text>Introduction: page 6</text>
+      </navLabel>
+      <content src="intro/p6.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

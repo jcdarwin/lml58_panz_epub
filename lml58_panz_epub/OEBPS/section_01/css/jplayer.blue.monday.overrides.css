@@ -1,0 +1,136 @@
+/*
+ * Skin overrides for Blue Monday.
+ *
+ * These overrides allow us to keep the 
+ * jplayer.blue.monday.css as originally-supplied,
+ * and override the necessary declarations in that
+ * file with those listed below.
+ * NOTE: This relies on this CSS file appearing 
+ * after jplayer.blue.monday.css
+ *
+ * Note that the one exception where we HAVE
+ * amended the jplayer.blue.monday.css file
+ * is to add IE conditionals before CSS declarations
+ * in order to prevent epubchecker errors.
+ *
+ * Copyright (c) Learning Media Ltd
+ * Dual licensed under the MIT and GPL licenses.
+ *  - http://www.opensource.org/licenses/mit-license.php
+ *  - http://www.gnu.org/copyleft/gpl.html
+ *
+ * Author: Jason Darwin
+ * Skin Version: 4.0 (jPlayer 2.1.0)
+ * Date: 5th August 2012
+ */
+
+div.jp-video-full div.jp-jplayer {
+	position: relative !important;
+}
+
+div.jp-video-full div.jp-gui {
+	/* position: static !important; */ /* Rules for IE6 (full-screen) */
+}
+
+div.jp-video-full {
+	width:1024px;
+	height:697px; /* 768px - 71px nav controls */
+}
+
+div.jp-controls-holder {
+	width:422px;
+}
+
+div.jp-video div.jp-type-single ul.jp-controls {
+	margin-left: 60%;
+}
+
+div.jp-video-217p {
+	width:422px;
+}
+
+div.jp-video-217p div.jp-video-play {
+	height:274px;
+}
+
+
+div#jp_container_1.jp-video-full {
+ left: 0px;
+ top: 0px;
+ margin:auto;
+ text-align:center;
+}
+
+div.jp-interface {
+ display:none;
+}
+
+#video_poster {
+ position: absolute;
+ left:0;
+ top:0;
+ width:422px;
+ height:274px;
+ border:none;
+ z-index:1;
+}
+
+#video_poster video {
+ max-width:100%;
+ height:auto;
+}
+
+.jp-duration{
+  display:none;
+}
+
+div.jp-video a.jp-mute{
+  left:10px;
+}
+
+div.jp-video a.jp-unmute{
+  left:6px;
+}
+
+div.jp-video a.jp-volume-max{
+  left:90px;
+}
+
+div.jp-video div.jp-volume-bar{
+  left:32px;
+}
+
+div.jp-video ul.jp-toggles {
+  width:70px;
+}
+
+div.jp-video a.jp-repeat{
+  left:10px;
+}
+
+a.jp-full-screen {
+  margin-left: 10px;
+}
+
+div.jp-video-full div.jp-gui {
+    height: 100%;
+    left: 0;
+/*    position: fixed !important; */
+    position: absolute !important;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+div.jp-video-full div.jp-jplayer {
+    left: 0;
+    overflow: hidden;
+/*    position: fixed !important; */
+    position: absolute !important;
+    top: 0;
+    z-index: 1000;
+}
+div.jp-video-full div.jp-interface {
+    bottom: 0;
+    left: 0;
+    position: absolute !important;
+    z-index: 1000;
+}

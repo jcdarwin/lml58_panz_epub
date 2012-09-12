@@ -1,0 +1,27 @@
+body {
+  margin: 1em;
+  text-align:center;
+  font-size:18px;
+  line-height:1.4;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link {
+  color: #000;
+  border-bottom: 1px dotted #ba0000;
+}
+
+a:visited {
+  color: #aaa;
+  border-bottom: 1px dotted #aaa;
+}
+
+#main {
+  text-align:left;
+  margin:auto;
+  width:70%;
+  margin-top:100px;
+}

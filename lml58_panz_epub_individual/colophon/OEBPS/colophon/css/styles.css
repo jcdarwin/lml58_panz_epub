@@ -1,0 +1,14 @@
+@font-face {
+	font-family: "Karla";
+	font-weight: normal;
+	font-style: normal;
+	src:url("../../fonts/Karla-Regular.ttf");
+}
+
+body {
+  margin:0;
+	font-family: "Karla";
+	font-weight: normal;
+	font-style: normal;
+	font-size: 20px;
+}

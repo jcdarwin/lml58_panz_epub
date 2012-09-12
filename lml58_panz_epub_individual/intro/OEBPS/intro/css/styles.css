@@ -1,0 +1,113 @@
+@font-face {
+	font-family: "SourceSansPro-Regular";
+	font-weight: normal;
+	font-style: normal;
+	src:url("../../fonts/SourceSansPro-Regular.ttf");
+}
+
+@font-face {
+	font-family: "SourceSansPro-Italic";
+	font-weight: normal;
+	font-style: normal;
+	src:url("../../fonts/SourceSansPro-Italic.ttf");
+}
+
+@font-face {
+	font-family: "Karla";
+	font-weight: normal;
+	font-style: normal;
+	src:url("../../fonts/Karla-Regular.ttf");
+}
+
+@font-face {
+	font-family: "Karla-Italic";
+	font-weight: normal;
+	font-style: normal;
+	src:url("../../fonts/Karla-Italic.ttf");
+}
+
+body {
+  margin:0;
+	font-family: "Karla";
+	font-weight: normal;
+	font-style: normal;
+	font-size: 20px;
+}
+
+.sourcesanspro{
+	font-family: "SourceSansPro-Regular";
+	font-weight: normal;
+	font-style: normal;
+}
+
+.sourcesanspro_italic{
+	font-family: "SourceSansPro-Italic";
+	font-weight: normal;
+	font-style: normal;
+}
+
+.karla_italic{
+	font-family: "Karla-Italic";
+	font-weight: normal;
+	font-style: normal;
+}
+
+/* ================================= Hero page ============================= */
+
+#footer_logo {
+ position: absolute;
+ overflow: hidden;
+ z-index: -1;
+}
+
+#footer_text {
+ position: absolute;
+ font-size: 22px;
+ z-index: 1;
+}
+
+#footer_graphic_container {
+ position: absolute;
+ overflow: hidden;
+ z-index: -1;
+}
+
+#footer_graphic {
+ position: relative;
+}
+
+/* ================================== Page 3 =============================== */
+
+#contacts {
+ position: absolute;
+ left:681px;
+ top:608px;
+ width:343px;
+ height:136px;
+ font-family: "Karla";
+ font-weight: normal;
+ font-style: normal;
+ overflow:hidden;
+ border-top-left-radius: 15px 15px;
+ -moz-border-radius-topleft: 15px 15px;
+}
+
+#contacts_head {
+ position: relative;
+ left:-147px;
+ top:-100px;
+ text-transform:uppercase;
+ -webkit-transform:rotate(-90deg);
+ font-size:20px;
+}
+
+#contacts_text {
+ position: relative;
+ left:52px;
+ top:-45px;
+ width:291px;
+ margin:0;
+ padding:0;
+ font-size:17px;
+}
+

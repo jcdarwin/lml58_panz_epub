@@ -1,0 +1,77 @@
+@font-face {
+	font-family: "Karla";
+	font-weight: normal;
+	font-style: normal;
+	src:url("../../fonts/Karla-Regular.ttf");
+}
+
+@font-face {
+	font-family: "Karla-Italic";
+	font-weight: normal;
+	font-style: normal;
+	src:url("../../fonts/Karla-Italic.ttf");
+}
+
+@font-face {
+	font-family: "Karla-Bold";
+	font-weight: normal;
+	font-style: normal;
+	src:url("../../fonts/Karla-Bold.ttf");
+}
+
+@font-face {
+	font-family: "ShortStack";
+	font-weight: normal;
+	font-style: normal;
+	src:url("../../fonts/ShortStack-Regular.ttf");
+}
+
+@font-face {
+	font-family: "GentiumBookBasic";
+	font-weight: normal;
+	font-style: normal;
+	src:url("../../fonts/GenBkBasR.ttf");
+}
+
+@font-face {
+	font-family: "GentiumBookBasic-Bold";
+	font-weight: normal;
+	font-style: normal;
+	src:url("../../fonts/GenBkBasB.ttf");
+}
+
+@font-face {
+	font-family: "SourceSansPro";
+	font-weight: normal;
+	font-style: normal;
+	src:url("../../fonts/SourceSansPro-Regular.ttf");
+}
+
+@font-face {
+	font-family: "SourceSansPro-Italic";
+	font-weight: normal;
+	font-style: normal;
+	src:url("../../fonts/SourceSansPro-Italic.ttf");
+}
+
+@font-face {
+	font-family: "SourceSansPro-Bold";
+	font-weight: normal;
+	font-style: normal;
+	src:url("../../fonts/SourceSansPro-Bold.ttf");
+}
+
+@font-face {
+	font-family: "SourceSansPro-Bold-Italic";
+	font-weight: normal;
+	font-style: normal;
+	src:url("../../fonts/SourceSansPro-BoldItalic.ttf");
+}
+
+body {
+  margin:0;
+	font-family: "Karla";
+	font-weight: normal;
+	font-style: normal;
+	font-size: 20px;
+}

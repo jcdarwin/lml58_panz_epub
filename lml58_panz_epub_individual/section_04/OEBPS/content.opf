@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" xml:lang="en" unique-identifier="pub-id">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Learning Landscapes: ESA Publications Ltd</dc:title>
+    <dc:creator>Learning Media Limited</dc:creator>
+    <dc:publisher>Learning Media Limited</dc:publisher>
+    <dc:language>en</dc:language>
+    <dc:identifier id="pub-id">978-0-7903-4207-8</dc:identifier>
+    <dc:source>Learning Media Limited</dc:source>
+    <meta property="dcterms:modified">2012-06-21T03:18:06Z</meta>
+    <dc:date>2012-06-21</dc:date>
+    <dc:publisher>Learning Media</dc:publisher>
+    <dc:subject>Non-Fiction</dc:subject>
+    <dc:type>Book</dc:type>
+  	<meta name="cover" content="images_cover.jpg"/>
+    <!-- <x-metadata><EmbeddedCover>images\cover.jpg</EmbeddedCover></x-metadata> -->
+</metadata>
+
+<manifest>
+<!-- '.'  -->
+    <item id='page-template.xpgt' href='page-template.xpgt'  media-type='application/vnd.adobe-page-template+xml' />
+    <item id='stylesheet.css' href='stylesheet.css'  media-type='text/css' />
+    <item id='ncx' href='toc.ncx'  media-type='application/x-dtbncx+xml' />
+    <item id='toc.xhtml' href='toc.xhtml' properties='nav' media-type='application/xhtml+xml' />
+<!-- './css'  -->
+<!-- './css/blue.monday'  -->
+    <item id='css_blue.monday_jplayer.blue.monday.css' href='css/blue.monday/jplayer.blue.monday.css'  media-type='text/css' />
+    <item id='css_blue.monday_jplayer.blue.monday.jpg' href='css/blue.monday/jplayer.blue.monday.jpg'  media-type='image/jpeg' />
+    <item id='css_blue.monday_jplayer.blue.monday.seeking.gif' href='css/blue.monday/jplayer.blue.monday.seeking.gif'  media-type='image/gif' />
+    <item id='css_blue.monday_jplayer.blue.monday.video.play.png' href='css/blue.monday/jplayer.blue.monday.video.play.png'  media-type='image/png' />
+<!-- './fonts'  -->
+    <item id='fonts_GenBkBasB.ttf' href='fonts/GenBkBasB.ttf'  media-type='application/vnd.ms-opentype' />
+    <item id='fonts_GenBkBasR.ttf' href='fonts/GenBkBasR.ttf'  media-type='application/vnd.ms-opentype' />
+    <item id='fonts_Karla-Bold.ttf' href='fonts/Karla-Bold.ttf'  media-type='application/vnd.ms-opentype' />
+    <item id='fonts_Karla-BoldItalic.ttf' href='fonts/Karla-BoldItalic.ttf'  media-type='application/vnd.ms-opentype' />
+    <item id='fonts_Karla-Italic.ttf' href='fonts/Karla-Italic.ttf'  media-type='application/vnd.ms-opentype' />
+    <item id='fonts_Karla-Regular.ttf' href='fonts/Karla-Regular.ttf'  media-type='application/vnd.ms-opentype' />
+    <item id='fonts_Metrophobic.ttf' href='fonts/Metrophobic.ttf'  media-type='application/vnd.ms-opentype' />
+    <item id='fonts_ShortStack-Regular.ttf' href='fonts/ShortStack-Regular.ttf'  media-type='application/vnd.ms-opentype' />
+    <item id='fonts_SourceSansPro-Bold.ttf' href='fonts/SourceSansPro-Bold.ttf'  media-type='application/vnd.ms-opentype' />
+    <item id='fonts_SourceSansPro-BoldItalic.ttf' href='fonts/SourceSansPro-BoldItalic.ttf'  media-type='application/vnd.ms-opentype' />
+    <item id='fonts_SourceSansPro-Italic.ttf' href='fonts/SourceSansPro-Italic.ttf'  media-type='application/vnd.ms-opentype' />
+    <item id='fonts_SourceSansPro-Regular.ttf' href='fonts/SourceSansPro-Regular.ttf'  media-type='application/vnd.ms-opentype' />
+<!-- './images'  -->
+    <item id='images_cover.jpg' href='images/cover.jpg'  media-type='image/jpeg' />
+<!-- './js'  -->
+    <item id='js_circle.player.js' href='js/circle.player.js'  media-type='text/javascript' />
+    <item id='js_jplayer.playlist.min.js' href='js/jplayer.playlist.min.js'  media-type='text/javascript' />
+    <item id='js_Jplayer.swf' href='js/Jplayer.swf'  media-type='application/x-shockwave-flash' />
+    <item id='js_jquery-1.7.2.min.js' href='js/jquery-1.7.2.min.js'  media-type='text/javascript' />
+    <item id='js_jquery.grab.js' href='js/jquery.grab.js'  media-type='text/javascript' />
+    <item id='js_jquery.jplayer.inspector.js' href='js/jquery.jplayer.inspector.js'  media-type='text/javascript' />
+    <item id='js_jquery.jplayer.min.js' href='js/jquery.jplayer.min.js'  media-type='text/javascript' />
+    <item id='js_jquery.transform.js' href='js/jquery.transform.js'  media-type='text/javascript' />
+    <item id='js_mod.csstransforms.min.js' href='js/mod.csstransforms.min.js'  media-type='text/javascript' />
+<!-- './section_04'  -->
+    <item id='section_04_p1.xhtml' href='section_04/p1.xhtml'  media-type='application/xhtml+xml' />
+    <item id='section_04_p2.xhtml' href='section_04/p2.xhtml' properties='scripted' media-type='application/xhtml+xml' />
+    <item id='section_04_p3.xhtml' href='section_04/p3.xhtml'  media-type='application/xhtml+xml' />
+<!-- './section_04/css'  -->
+    <item id='section_04_css_jplayer.blue.monday.overrides.css' href='section_04/css/jplayer.blue.monday.overrides.css'  media-type='text/css' />
+    <item id='section_04_css_p1.css' href='section_04/css/p1.css'  media-type='text/css' />
+    <item id='section_04_css_p2.css' href='section_04/css/p2.css'  media-type='text/css' />
+    <item id='section_04_css_p3.css' href='section_04/css/p3.css'  media-type='text/css' />
+    <item id='section_04_css_styles.css' href='section_04/css/styles.css'  media-type='text/css' />
+<!-- './section_04/images'  -->
+    <item id='section_04_images_kia_ora.png' href='section_04/images/kia_ora.png'  media-type='image/png' />
+    <item id='section_04_images_map.png' href='section_04/images/map.png'  media-type='image/png' />
+    <item id='section_04_images_p1_footer_silhouette.png' href='section_04/images/p1_footer_silhouette.png'  media-type='image/png' />
+    <item id='section_04_images_p1_hero.png' href='section_04/images/p1_hero.png'  media-type='image/png' />
+    <item id='section_04_images_p1_logo.png' href='section_04/images/p1_logo.png'  media-type='image/png' />
+    <item id='section_04_images_p1_map_pin.png' href='section_04/images/p1_map_pin.png'  media-type='image/png' />
+    <item id='section_04_images_p2_hero.png' href='section_04/images/p2_hero.png'  media-type='image/png' />
+    <item id='section_04_images_p2_hero_small.png' href='section_04/images/p2_hero_small.png'  media-type='image/png' />
+    <item id='section_04_images_p2_ribbon.png' href='section_04/images/p2_ribbon.png'  media-type='image/png' />
+    <item id='section_04_images_p3_hero_bottom_center.png' href='section_04/images/p3_hero_bottom_center.png'  media-type='image/png' />
+    <item id='section_04_images_p3_hero_bottom_left.png' href='section_04/images/p3_hero_bottom_left.png'  media-type='image/png' />
+    <item id='section_04_images_p3_hero_top_center.png' href='section_04/images/p3_hero_top_center.png'  media-type='image/png' />
+    <item id='section_04_images_p3_hero_top_right.png' href='section_04/images/p3_hero_top_right.png'  media-type='image/png' />
+    <item id='section_04_images_poster_esa.png' href='section_04/images/poster_esa.png'  media-type='image/png' />
+<!-- './section_04/js'  -->
+    <item id='section_04_js_document.ready.js' href='section_04/js/document.ready.js'  media-type='text/javascript' />
+<!-- './section_04/video'  -->
+    <item id='section_04_video_esa.m4v' href='section_04/video/esa.m4v'  media-type='video/mpeg4' />
+    <item id='section_04_video_esa.webm' href='section_04/video/esa.webm'  media-type='video/webm' />
+</manifest>
+<spine page-progression-direction="ltr" toc="ncx">
+    <itemref idref='section_04_p1.xhtml' />
+    <itemref idref='section_04_p2.xhtml' />
+    <itemref idref='section_04_p3.xhtml' />
+</spine>
+
+  <guide>
+	<reference type="toc" title="Table of Contents" href="toc.xhtml%23toc"></reference>
+    <reference type="cover" title="Learning Landscapes: ESA Publications Ltd" href="section_04/p1.xhtml"/>
+    <reference type="contents" title="Table of Contents" href="toc.xhtml"/>
+    <reference type="text" title="ESA Publications Ltd"    href="section_04/p1.xhtml"/>
+  </guide>
+
+</package>
+
