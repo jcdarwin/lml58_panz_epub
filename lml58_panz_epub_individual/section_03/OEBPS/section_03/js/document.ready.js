@@ -5,7 +5,7 @@ $(document).ready(function(){
 		ready: function () {
 			$(this).jPlayer("setMedia", {
 				m4v: "video/cleanslatepress.m4v",
-				webmv: "video/cleanslatepress.WebM",
+				webmv: "video/cleanslatepress.webm",
 				poster: "images/poster_cleanslatepress.jpg"
 			});
 		},
@@ -17,12 +17,6 @@ $(document).ready(function(){
 			height: "217px",
 			cssClass: "jp-video-217p"
 		},
-/*
-		sizeFull: {
-			width: "1024px",
-			height: "697px"
-		},
-*/
 		autohide: {
 			full: "false",
 			fadein: "0",			

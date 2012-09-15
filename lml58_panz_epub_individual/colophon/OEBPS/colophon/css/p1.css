@@ -23,12 +23,17 @@ a:visited {
   width:800px;
   height:250px;
   margin: auto;
-  margin-top:50px;
+  margin-top:0px;
   text-align:center;
 }
 
 #logos a {
   border-bottom: none;
+}
+
+#kia_ora {
+  width:260px;
+  margin: auto;
 }
 
 #kia_ora > a > img {
