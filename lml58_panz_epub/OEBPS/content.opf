@@ -501,7 +501,7 @@
     <item id='section_14_video_south_pacific.m4v' href='section_14/video/south_pacific.m4v'  media-type='video/mpeg4' />
     <item id='section_14_video_south_pacific.webm' href='section_14/video/south_pacific.webm'  media-type='video/webm' />
 <!-- './colophon'  -->
-    <item id='colophon_p1.xhtml' href='colophon/p1.xhtml'  media-type='application/xhtml+xml' />
+    <item id='colophon_p1.xhtml' href='colophon/p1.xhtml' properties='scripted' media-type='application/xhtml+xml' />
     <item id='colophon_p2.xhtml' href='colophon/p2.xhtml'  media-type='application/xhtml+xml' />
 <!-- './colophon/css'  -->
     <item id='colophon_css_styles.css' href='colophon/css/styles.css'  media-type='text/css' />

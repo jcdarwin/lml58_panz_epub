@@ -27,7 +27,7 @@
 <!-- './images'  -->
     <item id='images_cover.jpg' href='images/cover.jpg'  media-type='image/jpeg' />
 <!-- './colophon'  -->
-    <item id='colophon_p1.xhtml' href='colophon/p1.xhtml'  media-type='application/xhtml+xml' />
+    <item id='colophon_p1.xhtml' href='colophon/p1.xhtml' properties='scripted' media-type='application/xhtml+xml' />
     <item id='colophon_p2.xhtml' href='colophon/p2.xhtml'  media-type='application/xhtml+xml' />
 <!-- './colophon/css'  -->
     <item id='colophon_css_styles.css' href='colophon/css/styles.css'  media-type='text/css' />
