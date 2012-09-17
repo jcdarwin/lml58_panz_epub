@@ -62,4 +62,15 @@ $(document).ready(function(){
 		$("div.jp-video-play").show();
 	});
 
+	// JCD: Ensure that, on page turn, we stop any video playing.
+	try {
+		window.parent.$('#prev-page-button').click(function(){$("a.jp-stop").click()})
+	} catch (e) {
+	}
+
+	try {
+		window.parent.$('#next-page-button').click(function(){$("a.jp-stop").click()})
+	} catch (e) {
+	}
+
 });
