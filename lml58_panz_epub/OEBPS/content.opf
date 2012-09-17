@@ -121,7 +121,6 @@
     <item id='section_01_js_document.ready.js' href='section_01/js/document.ready.js'  media-type='text/javascript' />
 <!-- './section_01/video'  -->
     <item id='section_01_video_8interactive.m4v' href='section_01/video/8interactive.m4v'  media-type='video/mpeg4' />
-    <item id='section_01_video_8interactive.webm' href='section_01/video/8interactive.webm'  media-type='video/webm' />
 <!-- './section_02'  -->
     <item id='section_02_p1.xhtml' href='section_02/p1.xhtml'  media-type='application/xhtml+xml' />
     <item id='section_02_p2.xhtml' href='section_02/p2.xhtml' properties='scripted' media-type='application/xhtml+xml' />
@@ -153,7 +152,6 @@
     <item id='section_02_js_document.ready.js' href='section_02/js/document.ready.js'  media-type='text/javascript' />
 <!-- './section_02/video'  -->
     <item id='section_02_video_award.m4v' href='section_02/video/award.m4v'  media-type='video/mpeg4' />
-    <item id='section_02_video_award.webm' href='section_02/video/award.webm'  media-type='video/webm' />
 <!-- './section_03'  -->
     <item id='section_03_p1.xhtml' href='section_03/p1.xhtml'  media-type='application/xhtml+xml' />
     <item id='section_03_p2.xhtml' href='section_03/p2.xhtml' properties='scripted' media-type='application/xhtml+xml' />
@@ -183,7 +181,6 @@
     <item id='section_03_js_document.ready.js' href='section_03/js/document.ready.js'  media-type='text/javascript' />
 <!-- './section_03/video'  -->
     <item id='section_03_video_cleanslatepress.m4v' href='section_03/video/cleanslatepress.m4v'  media-type='video/mpeg4' />
-    <item id='section_03_video_cleanslatepress.webm' href='section_03/video/cleanslatepress.webm'  media-type='video/webm' />
 <!-- './section_04'  -->
     <item id='section_04_p1.xhtml' href='section_04/p1.xhtml'  media-type='application/xhtml+xml' />
     <item id='section_04_p2.xhtml' href='section_04/p2.xhtml' properties='scripted' media-type='application/xhtml+xml' />
@@ -213,7 +210,6 @@
     <item id='section_04_js_document.ready.js' href='section_04/js/document.ready.js'  media-type='text/javascript' />
 <!-- './section_04/video'  -->
     <item id='section_04_video_esa.m4v' href='section_04/video/esa.m4v'  media-type='video/mpeg4' />
-    <item id='section_04_video_esa.webm' href='section_04/video/esa.webm'  media-type='video/webm' />
 <!-- './section_05'  -->
     <item id='section_05_p1.xhtml' href='section_05/p1.xhtml'  media-type='application/xhtml+xml' />
     <item id='section_05_p2.xhtml' href='section_05/p2.xhtml' properties='scripted' media-type='application/xhtml+xml' />
@@ -241,7 +237,6 @@
     <item id='section_05_js_document.ready.js' href='section_05/js/document.ready.js'  media-type='text/javascript' />
 <!-- './section_05/video'  -->
     <item id='section_05_video_essential_resources.m4v' href='section_05/video/essential_resources.m4v'  media-type='video/mpeg4' />
-    <item id='section_05_video_essential_resources.webm' href='section_05/video/essential_resources.webm'  media-type='video/webm' />
 <!-- './section_06'  -->
     <item id='section_06_p1.xhtml' href='section_06/p1.xhtml'  media-type='application/xhtml+xml' />
     <item id='section_06_p2.xhtml' href='section_06/p2.xhtml' properties='scripted' media-type='application/xhtml+xml' />
@@ -274,7 +269,6 @@
     <item id='section_06_js_document.ready.js' href='section_06/js/document.ready.js'  media-type='text/javascript' />
 <!-- './section_06/video'  -->
     <item id='section_06_video_ges.m4v' href='section_06/video/ges.m4v'  media-type='video/mpeg4' />
-    <item id='section_06_video_ges.webm' href='section_06/video/ges.webm'  media-type='video/webm' />
 <!-- './section_07'  -->
     <item id='section_07_p1.xhtml' href='section_07/p1.xhtml'  media-type='application/xhtml+xml' />
     <item id='section_07_p2.xhtml' href='section_07/p2.xhtml' properties='scripted' media-type='application/xhtml+xml' />
@@ -301,7 +295,6 @@
     <item id='section_07_js_document.ready.js' href='section_07/js/document.ready.js'  media-type='text/javascript' />
 <!-- './section_07/video'  -->
     <item id='section_07_video_hana.m4v' href='section_07/video/hana.m4v'  media-type='video/mpeg4' />
-    <item id='section_07_video_hana.webm' href='section_07/video/hana.webm'  media-type='video/webm' />
 <!-- './section_08'  -->
     <item id='section_08_p1.xhtml' href='section_08/p1.xhtml'  media-type='application/xhtml+xml' />
     <item id='section_08_p2.xhtml' href='section_08/p2.xhtml' properties='scripted' media-type='application/xhtml+xml' />
@@ -333,7 +326,6 @@
     <item id='section_08_js_document.ready.js' href='section_08/js/document.ready.js'  media-type='text/javascript' />
 <!-- './section_08/video'  -->
     <item id='section_08_video_kiwa.m4v' href='section_08/video/kiwa.m4v'  media-type='video/mpeg4' />
-    <item id='section_08_video_kiwa.webm' href='section_08/video/kiwa.webm'  media-type='video/webm' />
 <!-- './section_09'  -->
     <item id='section_09_p1.xhtml' href='section_09/p1.xhtml'  media-type='application/xhtml+xml' />
     <item id='section_09_p2.xhtml' href='section_09/p2.xhtml' properties='scripted' media-type='application/xhtml+xml' />
@@ -359,7 +351,6 @@
     <item id='section_09_js_document.ready.js' href='section_09/js/document.ready.js'  media-type='text/javascript' />
 <!-- './section_09/video'  -->
     <item id='section_09_video_learning_media.m4v' href='section_09/video/learning_media.m4v'  media-type='video/mpeg4' />
-    <item id='section_09_video_learning_media.webm' href='section_09/video/learning_media.webm'  media-type='video/webm' />
 <!-- './section_10'  -->
     <item id='section_10_p1.xhtml' href='section_10/p1.xhtml'  media-type='application/xhtml+xml' />
     <item id='section_10_p2.xhtml' href='section_10/p2.xhtml' properties='scripted' media-type='application/xhtml+xml' />
@@ -390,7 +381,6 @@
     <item id='section_10_js_document.ready.js' href='section_10/js/document.ready.js'  media-type='text/javascript' />
 <!-- './section_10/video'  -->
     <item id='section_10_video_mja.m4v' href='section_10/video/mja.m4v'  media-type='video/mpeg4' />
-    <item id='section_10_video_mja.webm' href='section_10/video/mja.webm'  media-type='video/webm' />
 <!-- './section_11'  -->
     <item id='section_11_p1.xhtml' href='section_11/p1.xhtml'  media-type='application/xhtml+xml' />
     <item id='section_11_p2.xhtml' href='section_11/p2.xhtml' media-type='application/xhtml+xml' />
@@ -440,7 +430,6 @@
     <item id='section_12_js_document.ready.js' href='section_12/js/document.ready.js'  media-type='text/javascript' />
 <!-- './section_12/video'  -->
     <item id='section_12_video_south_pacific.m4v' href='section_12/video/ryan_publications.m4v'  media-type='video/mpeg4' />
-    <item id='section_12_video_south_pacific.webm' href='section_12/video/ryan_publications.webm'  media-type='video/webm' />
 <!-- './section_13'  -->
     <item id='section_13_p1.xhtml' href='section_13/p1.xhtml'  media-type='application/xhtml+xml' />
     <item id='section_13_p2.xhtml' href='section_13/p2.xhtml' properties='scripted' media-type='application/xhtml+xml' />
@@ -472,7 +461,6 @@
     <item id='section_13_js_document.ready.js' href='section_13/js/document.ready.js'  media-type='text/javascript' />
 <!-- './section_13/video'  -->
     <item id='section_13_video_skylight.m4v' href='section_13/video/skylight.m4v'  media-type='video/mpeg4' />
-    <item id='section_13_video_skylight.webm' href='section_13/video/skylight.webm'  media-type='video/webm' />
 <!-- './section_14'  -->
     <item id='section_14_p1.xhtml' href='section_14/p1.xhtml'  media-type='application/xhtml+xml' />
     <item id='section_14_p2.xhtml' href='section_14/p2.xhtml' properties='scripted' media-type='application/xhtml+xml' />
@@ -499,7 +487,6 @@
     <item id='section_14_js_document.ready.js' href='section_14/js/document.ready.js'  media-type='text/javascript' />
 <!-- './section_14/video'  -->
     <item id='section_14_video_south_pacific.m4v' href='section_14/video/south_pacific.m4v'  media-type='video/mpeg4' />
-    <item id='section_14_video_south_pacific.webm' href='section_14/video/south_pacific.webm'  media-type='video/webm' />
 <!-- './colophon'  -->
     <item id='colophon_p1.xhtml' href='colophon/p1.xhtml' properties='scripted' media-type='application/xhtml+xml' />
     <item id='colophon_p2.xhtml' href='colophon/p2.xhtml'  media-type='application/xhtml+xml' />

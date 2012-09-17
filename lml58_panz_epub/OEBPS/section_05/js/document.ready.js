@@ -5,13 +5,12 @@ $(document).ready(function(){
 		ready: function () {
 			$(this).jPlayer("setMedia", {
 				m4v: "video/essential_resources.m4v",
-				webmv: "video/essential_resources.webm",
 				poster: "images/poster_essential_resources.png"
 			});
 		},
 
 		swfPath: "js",
-		supplied: "m4v, webmv",
+		supplied: "m4v",
 		size: {
 			width: "346px",
 			height: "217px",

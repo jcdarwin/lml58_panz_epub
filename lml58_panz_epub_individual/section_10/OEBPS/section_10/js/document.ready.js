@@ -5,7 +5,7 @@ $(document).ready(function(){
 		ready: function () {
 			$(this).jPlayer("setMedia", {
 				m4v: "video/mja.m4v",
-				webmv: "video/mja.WebM",
+				webmv: "video/mja.webm",
 				poster: "images/poster_mja.png"
 			});
 		},
@@ -17,12 +17,7 @@ $(document).ready(function(){
 			height: "194px",
 			cssClass: "jp-video-217p"
 		},
-/*
-		sizeFull: {
-			width: "1024px",
-			height: "697px"
-		},
-*/
+
 		autohide: {
 			full: "false",
 			fadein: "0",

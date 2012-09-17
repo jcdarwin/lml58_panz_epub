@@ -5,7 +5,7 @@ $(document).ready(function(){
 		ready: function () {
 			$(this).jPlayer("setMedia", {
 				m4v: "video/kiwa.m4v",
-				webmv: "video/kiwa.WebM",
+				webmv: "video/kiwa.webm",
 				poster: "images/poster_kiwa.png"
 			});
 		},
@@ -17,12 +17,7 @@ $(document).ready(function(){
 			height: "208px",
 			cssClass: "jp-video-217p"
 		},
-/*
-		sizeFull: {
-			width: "1024px",
-			height: "697px"
-		},
-*/
+
 		autohide: {
 			full: "false",
 			fadein: "0",

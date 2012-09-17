@@ -5,24 +5,17 @@ $(document).ready(function(){
 		ready: function () {
 			$(this).jPlayer("setMedia", {
 				m4v: "video/8interactive.m4v",
-				webmv: "video/8interactive.webm",
 				poster: "images/poster_8interactive.png"
 			});
 		},
 
 		swfPath: "js",
-		supplied: "m4v, webmv",
+		supplied: "m4v",
 		size: {
 			width: "422px",
 			height: "274px",
 			cssClass: "jp-video-217p"
 		},
-/*
-		sizeFull: {
-			width: "1024px",
-			height: "697px"
-		},
-*/
 		autohide: {
 			full: "false",
 			fadein: "0",			

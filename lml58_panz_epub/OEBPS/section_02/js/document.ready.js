@@ -5,13 +5,12 @@ $(document).ready(function(){
 		ready: function () {
 			$(this).jPlayer("setMedia", {
 				m4v: "video/award.m4v",
-				webmv: "video/award.webm",
 				poster: "images/poster_award.jpg"
 			});
 		},
 
 		swfPath: "js",
-		supplied: "m4v, webmv",
+		supplied: "m4v",
 		size: {
 			width: "267px",
 			height: "200px",

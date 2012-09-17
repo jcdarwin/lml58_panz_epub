@@ -5,24 +5,18 @@ $(document).ready(function(){
 		ready: function () {
 			$(this).jPlayer("setMedia", {
 				m4v: "video/kiwa.m4v",
-				webmv: "video/kiwa.WebM",
 				poster: "images/poster_kiwa.png"
 			});
 		},
 
 		swfPath: "js",
-		supplied: "m4v, webmv",
+		supplied: "m4v",
 		size: {
 			width: "369px",
 			height: "208px",
 			cssClass: "jp-video-217p"
 		},
-/*
-		sizeFull: {
-			width: "1024px",
-			height: "697px"
-		},
-*/
+
 		autohide: {
 			full: "false",
 			fadein: "0",

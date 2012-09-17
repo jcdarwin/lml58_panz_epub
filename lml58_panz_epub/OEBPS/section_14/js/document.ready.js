@@ -5,24 +5,18 @@ $(document).ready(function(){
 		ready: function () {
 			$(this).jPlayer("setMedia", {
 				m4v: "video/south_pacific.m4v",
-				webmv: "video/south_pacific.webm",
 				poster: "images/poster_south_pacific.png"
 			});
 		},
 
 		swfPath: "js",
-		supplied: "m4v, webmv",
+		supplied: "m4v",
 		size: {
 			width: "403px",
 			height: "227px",
 			cssClass: "jp-video-217p"
 		},
-/*
-		sizeFull: {
-			width: "1024px",
-			height: "697px"
-		},
-*/
+
 		autohide: {
 			full: "false",
 			fadein: "0",			

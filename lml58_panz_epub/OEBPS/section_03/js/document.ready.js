@@ -5,13 +5,12 @@ $(document).ready(function(){
 		ready: function () {
 			$(this).jPlayer("setMedia", {
 				m4v: "video/cleanslatepress.m4v",
-				webmv: "video/cleanslatepress.WebM",
 				poster: "images/poster_cleanslatepress.jpg"
 			});
 		},
 
 		swfPath: "js",
-		supplied: "m4v, webmv",
+		supplied: "m4v",
 		size: {
 			width: "346px",
 			height: "217px",

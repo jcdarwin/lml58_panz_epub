@@ -5,24 +5,18 @@ $(document).ready(function(){
 		ready: function () {
 			$(this).jPlayer("setMedia", {
 				m4v: "video/hana.m4v",
-				webmv: "video/hana.webm",
 				poster: "images/poster_hana.jpg"
 			});
 		},
 
 		swfPath: "js",
-		supplied: "m4v, webmv",
+		supplied: "m4v",
 		size: {
 			width: "430px",
 			height: "245px",
 			cssClass: "jp-video-217p"
 		},
-/*
-		sizeFull: {
-			width: "1024px",
-			height: "697px"
-		},
-*/
+
 		autohide: {
 			full: "false",
 			fadein: "0",			

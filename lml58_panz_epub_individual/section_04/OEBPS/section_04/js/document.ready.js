@@ -19,12 +19,7 @@ $(document).ready(function(){
 			height: "220px",
 			cssClass: "jp-video-217p"
 		},
-/*
-		sizeFull: {
-			width: "1024px",
-			height: "546px"
-		},
-*/
+
 		autohide: {
 			full: "false",
 			fadein: "0",			

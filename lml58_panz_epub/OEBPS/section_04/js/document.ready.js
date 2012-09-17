@@ -6,25 +6,18 @@ $(document).ready(function(){
 			$(this).jPlayer(
 			"setMedia", {
 				m4v: "video/esa.m4v",
-				webmv: "video/esa.webm",
 				poster: "images/poster_esa.png"
 			}
 			);
 		},
 
 		swfPath: "js",
-		supplied: "m4v, webmv",
+		supplied: "m4v",
 		size: {
 			width: "392px",
 			height: "220px",
 			cssClass: "jp-video-217p"
 		},
-/*
-		sizeFull: {
-			width: "1024px",
-			height: "546px"
-		},
-*/
 		autohide: {
 			full: "false",
 			fadein: "0",			

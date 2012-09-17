@@ -17,6 +17,7 @@ $(document).ready(function(){
 			height: "217px",
 			cssClass: "jp-video-217p"
 		},
+
 		autohide: {
 			full: "false",
 			fadein: "0",			
