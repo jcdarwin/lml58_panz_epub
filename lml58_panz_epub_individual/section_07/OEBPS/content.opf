@@ -79,6 +79,7 @@
     <item id='section_07_js_document.ready.js' href='section_07/js/document.ready.js'  media-type='text/javascript' />
 <!-- './section_07/video'  -->
     <item id='section_07_video_hana.m4v' href='section_07/video/hana.m4v'  media-type='video/mpeg4' />
+    <item id='section_07_video_hana.webm' href='section_07/video/hana.webm'  media-type='video/webm' />
 </manifest>
 <spine page-progression-direction="ltr" toc="ncx">
     <itemref idref='section_07_p1.xhtml' />
