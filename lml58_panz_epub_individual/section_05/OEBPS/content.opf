@@ -76,6 +76,7 @@
     <item id='section_05_images_p3_pull_quote.png' href='section_05/images/p3_pull_quote.png'  media-type='image/png' />
     <item id='section_05_images_poster_essential_resources.png' href='section_05/images/poster_essential_resources.png'  media-type='image/png' />
     <item id='section_05_images_trees.png' href='section_05/images/trees.png'  media-type='image/png' />
+    <item id='section_05_images_p3_trees.png' href='section_05/images/p3_trees.png'  media-type='image/png' />
 <!-- './section_05/js'  -->
     <item id='section_05_js_document.ready.js' href='section_05/js/document.ready.js'  media-type='text/javascript' />
 <!-- './section_05/video'  -->

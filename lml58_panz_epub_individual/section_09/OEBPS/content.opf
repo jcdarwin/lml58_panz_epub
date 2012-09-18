@@ -72,6 +72,7 @@
     <item id='section_09_images_p1_map_pin.png' href='section_09/images/p1_map_pin.png'  media-type='image/png' />
     <item id='section_09_images_p2_hero.png' href='section_09/images/p2_hero.png'  media-type='image/png' />
     <item id='section_09_images_p2_hero_bottom.png' href='section_09/images/p2_hero_bottom.png'  media-type='image/png' />
+    <item id='section_09_images_p2_background_right.png' href='section_09/images/p2_background_right.png'  media-type='image/png' />
     <item id='section_09_images_p3_hero.png' href='section_09/images/p3_hero.png'  media-type='image/png' />
     <item id='section_09_images_poster_learning_media.jpg' href='section_09/images/poster_learning_media.jpg'  media-type='image/jpeg' />
 <!-- './section_09/js'  -->
