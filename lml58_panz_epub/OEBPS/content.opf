@@ -257,9 +257,9 @@
     <item id='section_06_images_p1_hero.png' href='section_06/images/p1_hero.png'  media-type='image/png' />
     <item id='section_06_images_p1_logo.png' href='section_06/images/p1_logo.png'  media-type='image/png' />
     <item id='section_06_images_p1_map_pin.png' href='section_06/images/p1_map_pin.png'  media-type='image/png' />
-    <item id='section_06_images_p2_background.png' href='section_06/images/p2_background.png'  media-type='image/png' />
     <item id='section_06_images_p2_hero.png' href='section_06/images/p2_hero.png'  media-type='image/png' />
     <item id='section_06_images_p2_logo.png' href='section_06/images/p2_logo.png'  media-type='image/png' />
+    <item id='section_06_images_p2_background.png' href='section_06/images/p2_background.png'  media-type='image/png' />
     <item id='section_06_images_p3_bottom_right.png' href='section_06/images/p3_bottom_right.png'  media-type='image/png' />
     <item id='section_06_images_p3_footer_silhouette.png' href='section_06/images/p3_footer_silhouette.png'  media-type='image/png' />
     <item id='section_06_images_p3_hero_bottom_right.png' href='section_06/images/p3_hero_bottom_right.png'  media-type='image/png' />
@@ -345,6 +345,7 @@
     <item id='section_09_images_p1_hero.png' href='section_09/images/p1_hero.png'  media-type='image/png' />
     <item id='section_09_images_p1_logo.png' href='section_09/images/p1_logo.png'  media-type='image/png' />
     <item id='section_09_images_p1_map_pin.png' href='section_09/images/p1_map_pin.png'  media-type='image/png' />
+    <item id='section_09_images_p2_background_right.png' href='section_09/images/p2_background_right.png'  media-type='image/png' />
     <item id='section_09_images_p2_hero.png' href='section_09/images/p2_hero.png'  media-type='image/png' />
     <item id='section_09_images_p2_hero_bottom.png' href='section_09/images/p2_hero_bottom.png'  media-type='image/png' />
     <item id='section_09_images_p3_hero.png' href='section_09/images/p3_hero.png'  media-type='image/png' />
@@ -453,12 +454,10 @@
     <item id='section_13_images_p2_journey_through.png' href='section_13/images/p2_journey_through.png'  media-type='image/png' />
     <item id='section_13_images_p2_rule.png' href='section_13/images/p2_rule.png'  media-type='image/png' />
     <item id='section_13_images_p2_something_happened.png' href='section_13/images/p2_something_happened.png'  media-type='image/png' />
-    <item id='section_13_images_p3_background.png' href='section_13/images/p3_background.png'  media-type='image/png' />
-    <item id='section_13_images_p3_bottom_left.png' href='section_13/images/p3_bottom_left.png'  media-type='image/png' />
-    <item id='section_13_images_p3_logo.png' href='section_13/images/p3_logo.png'  media-type='image/png' />
     <item id='section_13_images_p3_rule.png' href='section_13/images/p3_rule.png'  media-type='image/png' />
     <item id='section_13_images_p3_strip.png' href='section_13/images/p3_strip.png'  media-type='image/png' />
     <item id='section_13_images_poster_skylight.png' href='section_13/images/poster_skylight.png'  media-type='image/png' />
+    <item id='section_13_images_p3_bottom_left.jpg' href='section_13/images/p3_bottom_left.jpg'  media-type='image/jpeg' />
 <!-- './section_13/js'  -->
     <item id='section_13_js_document.ready.js' href='section_13/js/document.ready.js'  media-type='text/javascript' />
 <!-- './section_13/video'  -->
@@ -482,6 +481,7 @@
     <item id='section_14_images_p1_map_pin.png' href='section_14/images/p1_map_pin.png'  media-type='image/png' />
     <item id='section_14_images_p2_hero.png' href='section_14/images/p2_hero.png'  media-type='image/png' />
     <item id='section_14_images_p3_hero_bottom_left.png' href='section_14/images/p3_hero_bottom_left.png'  media-type='image/png' />
+    <item id='section_14_images_p3_hero_bottom_right.png' href='section_14/images/p3_hero_bottom_right.png'  media-type='image/png' />
     <item id='section_14_images_p3_hero_top_left.png' href='section_14/images/p3_hero_top_left.png'  media-type='image/png' />
     <item id='section_14_images_p3_logo.png' href='section_14/images/p3_logo.png'  media-type='image/png' />
     <item id='section_14_images_poster_south_pacific.png' href='section_14/images/poster_south_pacific.png'  media-type='image/png' />
