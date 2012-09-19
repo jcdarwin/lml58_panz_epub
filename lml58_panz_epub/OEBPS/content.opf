@@ -114,7 +114,8 @@
     <item id='section_01_images_p2_video_shell.png' href='section_01/images/p2_video_shell.png'  media-type='image/png' />
     <item id='section_01_images_p3_download.png' href='section_01/images/p3_download.png'  media-type='image/png' />
     <item id='section_01_images_p3_hero.png' href='section_01/images/p3_hero.png'  media-type='image/png' />
-    <item id='section_01_images_p3_logos.png' href='section_01/images/p3_logos.png'  media-type='image/png' />
+    <item id='section_01_images_p3_logo_android.png' href='section_01/images/p3_logo_android.png'  media-type='image/png' />
+    <item id='section_01_images_p3_logo_ios.png' href='section_01/images/p3_logo_ios.png'  media-type='image/png' />
     <item id='section_01_images_p3_title.png' href='section_01/images/p3_title.png'  media-type='image/png' />
     <item id='section_01_images_poster_8interactive.png' href='section_01/images/poster_8interactive.png'  media-type='image/png' />
 <!-- './section_01/js'  -->
